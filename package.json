@@ -1,0 +1,16 @@
+{
+  "name": "A11-HelloWorldInDocker",
+  "version": "1.0.0",
+  "description": "Project A11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kristinnf13",
+  "license": "MIT",
+  "repository": "https://github.com/Stinni/VEFT-A11",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}

@@ -14,4 +14,6 @@ ADD index.js /app/index.js
 
 RUN npm install
 
+EXPOSE 4000
+
 CMD ["node", "index.js"]
